@@ -1,0 +1,30 @@
+
+textarea {
+    border-radius: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"] {
+    border-radius: 10px;
+  }
+  
+  button[type="submit"] {
+    border-radius: 30px;
+    padding: 12px 20px;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #28a745;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Contact Info */
+  .list-group-item {
+    border: none;
+    font-size: 1.1rem;
+  }
+  
+  .list-group-item i {
+    color: #28a745;
+  }
+  
